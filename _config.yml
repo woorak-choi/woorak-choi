@@ -1,5 +1,5 @@
 title: Woorak Choi
-description: PhD Candidate - Department of Astronomy, Yonsei University
+description: Ph.D. - Department of Astronomy, Yonsei University
 site_title: '@wrchoi - Woorak Choi'
 
 # Build settings
@@ -9,7 +9,7 @@ exclude: [vendor/ruby]
 # Personalization
 github_username: woorak-choi
 blog_url: 
-email: woorak.c@yonsei.ac.kr
+email: woorak.c@gmail.com
 
 # absolute or relative
 profile_picture: assets/images/2018내사진.jpg
